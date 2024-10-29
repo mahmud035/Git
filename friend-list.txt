@@ -15,6 +15,9 @@
 ===========================
 || Yadav Lamechane || Kharar, Punjab, India
 ===========================
+===========================
+|| John Doe ||
+===========================
 
 Added new code to main branch.
 
@@ -22,3 +25,4 @@ Added new code to main branch.
 2. Added more code to new-feature branch.
 3. Added more & more code to new-feature branch.
 4. Added more & more & more code to new-feature branch.
+|| Yadav Lamechane ||
